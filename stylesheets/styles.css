@@ -2,11 +2,9 @@ body{
     background-color: #2B303B;
     font-family: 'Source Code Pro' ;
 }
-.main{
-    /*position: relative;*/
-}
 .code{
     color:#A3B875;
+    line-height: 1.5;
 }
 .tag{
     color:#BF5E5C;
@@ -26,7 +24,7 @@ body{
   top: 50%;
   width: 620px;
   margin-left: -310px;
-  margin-top: -50px;
+  margin-top: -100px;
   height: 100px;
 }
 
